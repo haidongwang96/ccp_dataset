@@ -4,7 +4,7 @@ This is the dataset list in the paper **Dynamic Object Removal of Static 3D Poin
 
 - [Dataset URL](https://drive.google.com/drive/folders/1SOAeD3gxtO2jv5nk1CJlvezyZka3Yle4?usp=sharing)
 
-Please cite the following publications:
+Please cite the following publications(under review. submit to 2024 IEEE International Conference on Real-time Computing and Robotics):
 ```bibtex
 @Article{hd24rcar,
   author        = {Haidong Wang, Wanlei Li, Yijie Dai, Xiaogang Xiong, and Yunjiang Lou},
