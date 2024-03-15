@@ -21,10 +21,10 @@ Please cite the following publications(under review. submit to 2024 IEEE Interna
 CCP
   ├──training
   |   ├── label
-  |   ├── data
-  ├──testing
+  |   └── data
+  └──testing
       ├── label
-      ├── data
+      └──data
 ```
 
 ### Extract data
