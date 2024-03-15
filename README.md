@@ -18,7 +18,13 @@ Please cite the following publications(under review. submit to 2024 IEEE Interna
 ### Data format
 
 ```
-todo
+CCP
+  ├──training
+  |   ├── label
+  |   ├── data
+  ├──testing
+      ├── label
+      ├── data
 ```
 
 ### Extract data
